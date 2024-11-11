@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Basit Jawad!
 ---
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQEiPZONODcncg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721803378492?e=1729728000&v=beta&t=WPdXadNVQct8-HssGqAxp5-4C1AW0ImNfDza7RMsjBI)
-
+<a href="https://app.daily.dev/basitjawad"><img src="https://api.daily.dev/devcards/v2/C2lHFtX2SEwDQ2IUdOsst.png?type=wide&r=cht" width="652" alt="Basit Jawad's Dev Card"/></a>
 ---
 
 ### 👨‍💻 About Me
