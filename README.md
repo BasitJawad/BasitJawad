@@ -47,14 +47,5 @@ Welcome to my GitHub profile! I’m a passionate **Frontend Developer** with a f
 - ⚡ Fun fact: I love experimenting with **GSAP** to bring static designs to life with smooth transitions and animations!
 
 ---
-
-### 🎨 Fun Visuals
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI2aXBtZXV1NGp3dGtkdm9mOWtzb3ljNXlrdm83eTIzMXVpZDVsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200.webp" alt="GSAP Animation Fun"/>
-</p>
-
----
-
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=BasitJawad)](https://github.com/BasitJawad/github-profile-trophy)
